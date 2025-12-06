@@ -1,4 +1,4 @@
-# Library Inventory Manager – Vansh Bisht
+# Library Inventory Manager – Vansh Viraj Bisht
 
 ### A mini project for the course *Programming for Problem Solving using Python*
 
@@ -16,3 +16,4 @@
 ---
 
 ## 📁 Project Structure
+
